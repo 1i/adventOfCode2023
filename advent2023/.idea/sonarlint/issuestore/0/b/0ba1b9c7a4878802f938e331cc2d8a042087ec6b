@@ -1,0 +1,15 @@
+
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ó¢ŸÞÈ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(â‰¹Ñ8Ú¢ŸÞÈ1
+G	java:S106"+Replace this use of System.out by a logger.(±¤ª¹8Ü¢ŸÞÈ1
+L	java:S106 "+Replace this use of System.out by a logger.(×÷ì¤üÿÿÿÿ8Ý¢ŸÞÈ1
+G	java:S106%"+Replace this use of System.out by a logger.(’ØØ²8Þ¢ŸÞÈ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8 ‰¥ÞÈ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¾ÕŸÞÈ1
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8¾ÕŸÞÈ1
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8¿ÕŸÞÈ1

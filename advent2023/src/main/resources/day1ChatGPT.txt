@@ -1,0 +1,21 @@
+
+The newly-improved calibration document consists of lines of text; each line originally contained a specific calibration value that the Elves now need to recover. On each line, the calibration value can be found by combining the first digit and the last digit (in that order) to form a single two-digit number.
+
+For example:
+
+1abc2
+pqr3stu8vwx
+a1b2c3d4e5f
+treb7uchet
+
+
+GPT
+It seems like you've provided a set of strings, and you need to extract calibration values by combining the first and last digits of each string. Let's go through the examples you provided:
+
+1abc2 - Take the first digit (1) and the last digit (2), giving you 12.
+pqr3stu8vwx - Take the first digit (3) and the last digit (x, which is treated as 10), giving you 310.
+a1b2c3d4e5f - Take the first digit (a, which is treated as 10) and the last digit (f, which is treated as 15), giving you 1015.
+treb7uchet - Take the first digit (t, which is treated as 10) and the last digit (t), giving you 10.
+Now you can apply the same logic to the entire calibration document. For each line, extract the first and last digits, and combine them to get the calibration value.
+
+If you provide the actual calibration document, I can help you with extracting the calibration values from it. Alternatively, if you have any specific questions or need further assistance, feel free to ask!
